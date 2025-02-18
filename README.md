@@ -14,7 +14,8 @@
   </span>
 </div>
 <div>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TAGASHIRA-D-RYUSEI&bg_color=121212&color=3dd673&line=55ff33&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TAGASHIRA-D-RYUSEI&bg_color=121212&color=3dd673&line=55ff33&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
