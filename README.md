@@ -13,7 +13,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tagashira-d-ryusei" alt="Streak Stats" />
   </span>
 </div>
-
+<p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TAGASHIRA-D-RYUSEI&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
